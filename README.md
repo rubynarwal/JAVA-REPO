@@ -18,7 +18,7 @@
 
 ## Blog Link👩
 
-Look at my bolgs-----Link✌✔ ->[blog](https://markdownlivepreview.com/).
+Look at my bolgs-----Link✌✔ ->[blog](https://medium.com/@rubynarwal21).
 
 ##HackerRak
 
