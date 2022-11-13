@@ -1,6 +1,6 @@
 # JAVA-REPO
 
-# Hello my name is  ruby narwal 💎
+# Hello my name is  Ruby Narwal 💎
 
 ##  "Just Another Virtual Accelerator"(JAVA)
 
@@ -26,7 +26,7 @@ HackerRank ✔ [HackerRank](https://www.hackerrank.com/rubynarwal21).
 
 ##Github 
 
-Github✔[Gitub](https://github.com/rubynarwal).
+Github✔[Github](https://github.com/rubynarwal).
 
 >> What means by Java?
 
