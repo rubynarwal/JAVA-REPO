@@ -35,6 +35,13 @@ public class country {
             case 7:
                 System.out.println("Ahemdabad");
                 break;
+            case 8:
+                System.out.println("Srinagar");
+                break;
+            case 9:
+                System.out.println("Himachal");
+                break;
+
         }
 
     }
