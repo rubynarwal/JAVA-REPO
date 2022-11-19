@@ -41,6 +41,10 @@ public class country {
             case 9:
                 System.out.println("Himachal");
                 break;
+            case 10:
+                System.out.println("Bhopal");
+                break;
+
 
         }
 
