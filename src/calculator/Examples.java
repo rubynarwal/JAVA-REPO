@@ -20,11 +20,11 @@ public class Examples {
 //
 //      question 3--------->
 
-      System.out.println("How are you");
-      Scanner ac=new Scanner(System.in);
+      System.out.println("How are you?");
+      Scanner rc=new Scanner(System.in);
 
-    String name= ac.next();
-      System.out.println("Hello" +" " +name+"I am great");
+    String name= rc.next();
+      System.out.println("Hello" +" " +name+ "I am great");
 
 
 
