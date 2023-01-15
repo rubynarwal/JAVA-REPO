@@ -7,7 +7,7 @@ public class star3 {
                 if(i>=2&&j>=2 && i<=3&&j<=3){
                     System.out.print("  ");
                 }else{
-                    System.out.print("*"+" ");
+                    System.out.print("*"+" "+"*");
                 }
             }
             System.out.println();
